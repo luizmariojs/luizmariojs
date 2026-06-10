@@ -7,14 +7,12 @@
 
 Construindo marcas, produtos digitais e negócios que conectam estratégia, design e tecnologia.
 
----
 
 ## 🚧 Atualmente trabalhando em
 
 - 🌐 ABC Sites
 - ⚙️ Sistemas e automações sob medida
 
----
 
 ## 🛠️ Tecnologias
 
@@ -26,7 +24,6 @@ Construindo marcas, produtos digitais e negócios que conectam estratégia, desi
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
 
 ## 📊 GitHub Stats
 
@@ -34,14 +31,6 @@ Construindo marcas, produtos digitais e negócios que conectam estratégia, desi
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luizmariojs&layout=compact&theme=tokyonight)
 
----
 
-## 🌎 Onde me encontrar
-
-- LinkedIn: SEU_LINK
-- Website: SEU_SITE
-- Instagram: SEU_INSTAGRAM
-
----
 
 > "Design atrai. Estratégia direciona. Tecnologia entrega."
