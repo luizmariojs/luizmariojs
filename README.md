@@ -1,4 +1,4 @@
-# Olá, eu sou Luiz Mário 👋
+# Olá, eu sou Luiz Mário JS 👋
 
 🎨 Designer
 💻 Desenvolvedor Web
@@ -10,7 +10,6 @@ Construindo marcas, produtos digitais e negócios que conectam estratégia, desi
 
 ## 🚧 Atualmente trabalhando em
 
-- 🌐 ABC Sites
 - ⚙️ Sistemas e automações sob medida
 
 
