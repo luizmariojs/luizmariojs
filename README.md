@@ -4,9 +4,7 @@
 🚀 Empreendedor\
 🇧🇷 Recife, Pernambuco
 
-Desenvolvo sistemas sob medida, automações e integrações de pagamento e nota fiscal, hospedados em servidores que eu mesmo configuro e mantenho.
-
-Em 2018 fundei a LM BDD Marketing, e dela nasceu a [abcsites.com.br](https://abcsites.com.br), onde ajudo pequenas empresas, profissionais liberais e lojistas a vender mais na internet. Também atuo com UI, UX e Service Design, o que me ajuda a construir sistemas que, além de funcionar, fazem sentido para o negócio e para quem usa.
+Em 2018 fundei a LM BDD Marketing, e dela nasceu a [abcsites.com.br](https://abcsites.com.br), onde ajudo pequenas empresas, profissionais liberais e lojistas a vender mais na internet. Hoje desenvolvo sistemas sob medida, automações e integrações, hospedados em servidores que eu mesmo configuro e mantenho. Também atuo com UI, UX e Service Design, o que me ajuda a construir sistemas que, além de funcionar, fazem sentido para o negócio e para quem usa.
 
 
 ## 🚧 Atualmente trabalhando em
