@@ -1,0 +1,6 @@
+# Ignora tudo
+*
+
+# Libera apenas o README.md e o próprio .gitignore
+!README.md
+!.gitignore
